@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PersonalFinance">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PersonalFinance.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
